@@ -1,0 +1,52 @@
+[
+    {
+        "pic":"../img/游戏鼠标.PNG",
+        "name": "游戏鼠标",
+        "unit": "个",
+        "price": 439,
+        "discount": "NO_DISCOUNT",
+        "barcode": "ITEM000001"
+    },{
+        "pic":"../img/电热锅.PNG",
+        "name": "电热锅",
+        "unit": "个",
+        "price": 139,
+        "discount": "NO_DISCOUNT",
+        "barcode": "ITEM000002"
+    },{
+        "pic":"../img/蓝牙耳机.PNG",
+        "name": "蓝牙耳机",
+        "unit": "对",
+        "price": 699,
+        "discount": "NO_DISCOUNT",
+        "barcode": "ITEM000003"
+    },{
+        "pic":"../img/拓展坞.PNG",
+        "name": "拓展坞",
+        "unit": "个",
+        "price": 199,
+        "discount": "BUY_TWO_GET_ONE_FREE",
+        "barcode": "ITEM000004"
+    },{
+        "pic":"../img/眼罩.PNG",
+        "name": "眼罩",
+        "unit": "个",
+        "price": 99,
+        "discount": "BUY_TWO_GET_ONE_FREE",
+        "barcode": "ITEM000005"
+    },{
+        "pic":"../img/坐垫.PNG",
+        "name": "坐垫",
+        "unit": "个",
+        "price": 199,
+        "discount": "BUY_TWO_GET_ONE_FREE",
+        "barcode": "ITEM000006"
+    },{
+        "pic":"../img/USB分线器.PNG",
+        "name": "USB分线器",
+        "unit": "个",
+        "price": 239,
+        "discount": "NO_DISCOUNT",
+        "barcode": "ITEM000007"
+    }
+]

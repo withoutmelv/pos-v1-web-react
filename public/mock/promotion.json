@@ -1,0 +1,10 @@
+[
+    {
+        "type": "BUY_TWO_GET_ONE_FREE",
+        "barcodes": [
+            "ITEM000004",
+            "ITEM000005",
+            "ITEM000006"
+        ]
+    }
+]

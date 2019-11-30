@@ -1,0 +1,92 @@
+.OrderItem{
+    display: flex;
+    padding: 11px 10px 11px 15px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.OrderItem__picContainer{
+    padding-right: 10px;
+    display: inline-block;
+}
+
+.OrderItem__pic{
+    width: 160px;
+    height: 160px;
+}
+.OrderItem__detail{
+    display: inline-block;
+    width: calc(100%-100px);
+}
+
+.OrderItem__name{
+    max-width: 237px;
+    font-size: 17px;
+    font-weight: 700;
+    color: #111;
+    padding-top: 6px;
+    padding-right: 18px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.OrderItem__unit{
+    text-align: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 13px;
+    color: #777;
+    padding-top: 9px;
+    padding-bottom: 13px;
+}
+
+.OrderItem__price{
+    text-align: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 13px;
+    color: #777;
+    padding-top: 9px;
+    padding-bottom: 13px;
+}
+
+.OrderItem__discount{
+    text-align: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 13px;
+    color: #777;
+    padding-top: 9px;
+    padding-bottom: 13px;
+}
+
+.OrderItem__barcode{
+    text-align: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 13px;
+    color: #777;
+    padding-top: 9px;
+    padding-bottom: 13px;
+}
+
+.OrderItem__num{
+    text-align: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 13px;
+    color: #777;
+    padding-top: 9px;
+    padding-bottom: 13px;
+}
+
+.OrderItem__btn{
+    display: flex;
+    flex-wrap: nowrap;
+}

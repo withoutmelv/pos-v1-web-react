@@ -1,0 +1,12 @@
+.Title__name{
+    color: black;
+    font-size: larger;
+    font-weight: 900;
+   
+}
+
+.Title{
+    width: 100%;
+    text-align: center;
+    background-color: red;
+}
